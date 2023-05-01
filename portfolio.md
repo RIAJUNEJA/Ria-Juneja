@@ -98,7 +98,6 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 
 # Certifications <a id="certfifications"></a>
 
-Sure! Here are some suggestions on how to include descriptions for each certification on your resume:
 
  1. **FinTech Security and Regulation (RegTech) by The Hong Kong University of Science and Technology**
 - Gained knowledge about the regulatory and compliance aspects of FinTech, including RegTech, in the context of the financial industry
