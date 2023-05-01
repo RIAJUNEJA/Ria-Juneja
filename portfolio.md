@@ -5,15 +5,17 @@
 
 **E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
 
-<img src="./downloads/passport photo.pdf" alt="image description" width="400" height="300">
+![E364587E-3D73-48A7-A015-B3F7A7187049_1_201_a](https://user-images.githubusercontent.com/122485765/235422111-6a428fd7-3838-4bfb-8bbc-0946ac914396.jpeg)
+
+
 
 Hi! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
-- **machine learning,** 
-- **artificial intelligence,** 
-- **data analytics,** 
-- **fintech, **
-- **cryptography and network security, **
-- **algorithms and data structures, ** 
+- **machine learning** 
+- **artificial intelligence** 
+- **data analytics** 
+- **fintech**
+- **cryptography and network security**
+- **algorithms and data structures** 
 - **data visualization and communication**
 
 In my grade 12 board examinations in the non-medical stream, I secured **first position in Chandigarh** and third position in the Tricity, which has fueled my interest in pursuing a career in **STEM** fields.
