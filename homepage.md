@@ -1,19 +1,20 @@
- ### [About Me](#about-me) [Contact](#contact) [Professional Experience](#prof) [Projects](#projects) [Certifications](#certfifications) [Other skills](#skills) [Leadership](#leadership) [Academic Awards](#awards) [Extra curriculars](#EC) [Social welfare](#sw) 
+ [About Me](#about-me) | [Contact](#contact) | [Professional Experience](#prof) | [Projects](#projects) | [Certifications](#certfifications) | [Other skills](#skills) | [Leadership](#leadership) | [Academic Awards](#awards) | [Extra curriculars](#EC) | [Social welfare](#sw) | [Hobbies](#hobbies)
 
 
 # About me <a id="about-me"></a> 
 
+**E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
 
-<img src="./downloads/riajuneja.jpg" alt="image description" width="400" height="300">
+<img src="./downloads/passport photo.pdf" alt="image description" width="400" height="300">
 
 Hi! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
-- machine learning, 
-- artificial intelligence, 
-- data analytics, 
-- fintech, 
-- cryptography and network security, 
-- algorithms and data structures,  
-- data visualization and communication
+- **machine learning,** 
+- **artificial intelligence,** 
+- **data analytics,** 
+- **fintech, **
+- **cryptography and network security, **
+- **algorithms and data structures, ** 
+- **data visualization and communication**
 
 In my grade 12 board examinations in the non-medical stream, I secured **first position in Chandigarh** and third position in the Tricity, which has fueled my interest in pursuing a career in **STEM** fields.
 
@@ -93,7 +94,7 @@ Increased customer engagement through social media.
 I have done 16+ other basic projects in Java for my CSE courses. Feel free to contact me for more information.
 
 
-# Certifications <a id="certifications"></a>
+# Certifications <a id="certfifications"></a>
 
 Sure! Here are some suggestions on how to include descriptions for each certification on your resume:
 
@@ -174,12 +175,17 @@ In my grade 12 board examinations in the non-medical stream, I secured **first p
 - English recitation at Carmel School
 - Encylops Science Competition
 
-# Social Welfare
+# Social Welfare <a id="sw"></a>
 
 - Volunteered at AIESEC
 - Volunteered to teach underprivileged kids at a government school - "Hamari Kaksha".
 - Avid dog welfare promoter.
 - Volunteered at a children's hospital in Chandigarh.
 
-# Hobbies
+# Hobbies <a id="hobbies"></a>
 
+- Gym
+- Dance
+- Watercoloring 
+- Calligraphy
+ 
