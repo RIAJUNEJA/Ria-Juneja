@@ -1,10 +1,10 @@
-# My Header  <a id="my-header"></a>
+# My Header  <a id="my-header"></a> [Jump to My Header](#certification)
 
 
 [Jump to My Header](#my-header)
 
 
-[certification](./Certifications.md)
+[certification](./Certifications.md) <a id="certification"></a>
 
 
 
