@@ -10,7 +10,7 @@
 
 
 
-Hi! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
+Hello! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
 - **machine learning** 
 - **artificial intelligence** 
 - **data analytics** 
