@@ -78,7 +78,7 @@ Increased customer engagement through social media.
 
 ### Audio Project
 > DSC 96
-> 
+
 - Stored and modify audio recordings using Python, including digital signal processing techniques to remove long pauses
 - Utilized a pre-made API to perform speech recognition and examined the impact of noise on speech recognition accuracy
 - Gained knowledge about the cloud through the use of cloud-based speech recognition services
