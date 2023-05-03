@@ -3,7 +3,8 @@
 
 # About me <a id="about-me"></a> 
 
-**E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
+<a id="contact"></a> 
+**E-mail** :  rjuneja@ucsd.edu 
 
 
 <img src = "https://github.com/RIAJUNEJA/Ria-Juneja/files/11381563/IMG-3392.pdf" width="220" height="300">
