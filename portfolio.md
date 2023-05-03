@@ -5,9 +5,8 @@
 
 **E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
 
-![8AC90ED3-E576-419D-B557-AB261855DF80](https://user-images.githubusercontent.com/122485765/235863387-60de1236-51b7-4fba-896a-bb1505b2362e.jpeg)
 
-<img src="(https://user-images.githubusercontent.com/122485765/235863387-60de1236-51b7-4fba-896a-bb1505b2362e.jpeg)" width="100" height="100")>
+<img src = "https://github.com/RIAJUNEJA/riajuneja/files/11380749/IMG-3392.pdf" width="200" height="300">
 
 
 
