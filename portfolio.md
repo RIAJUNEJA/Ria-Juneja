@@ -5,7 +5,7 @@
 
 **E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
 
-![E364587E-3D73-48A7-A015-B3F7A7187049_1_201_a](https://user-images.githubusercontent.com/122485765/235422111-6a428fd7-3838-4bfb-8bbc-0946ac914396.jpeg)
+![8AC90ED3-E576-419D-B557-AB261855DF80](https://user-images.githubusercontent.com/122485765/235863387-60de1236-51b7-4fba-896a-bb1505b2362e.jpeg)
 
 
 
