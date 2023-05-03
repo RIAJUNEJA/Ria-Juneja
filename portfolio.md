@@ -7,6 +7,8 @@
 
 ![8AC90ED3-E576-419D-B557-AB261855DF80](https://user-images.githubusercontent.com/122485765/235863387-60de1236-51b7-4fba-896a-bb1505b2362e.jpeg)
 
+<img src="(https://user-images.githubusercontent.com/122485765/235863387-60de1236-51b7-4fba-896a-bb1505b2362e.jpeg)" width="100" height="100")>
+
 
 
 Hi! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
