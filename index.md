@@ -147,7 +147,7 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 
 - **Head of Department, MUN**: Led the planning and execution of all departmental activities for the MUN team. Collaborated with other department heads and the Chief of Staff to ensure that all aspects of the team's operations were running smoothly and effectively.
 
-- **Tritons Community Programming Leader** : Supported organizational objectives by communicating goals with team and encouraging individual and team accountability.LeD and managED a team of student volunteers to plan and execute events and programs.Collaborated with campus departments and organizations.
+- **Tritons Community Programming Leader** : Supported organizational objectives by communicating goals with team and encouraging individual and team accountability.Led and managed a team of student volunteers to plan and execute events and programs.Collaborated with campus departments and organizations.
 
 - **Mentor at UCSD**: Provided guidance and support to individuals seeking to develop their skills in a particular area, such as programming or leadership. I facilitated one-on-one meetings, provided feedback on assignments, and answered questions to help mentees achieve their goals. I also worked to create a supportive and inclusive environment, encouraging mentees to grow and succeed in their endeavors.
 
