@@ -6,7 +6,7 @@
 **E-mail** :  rjuneja@ucsd.edu <a id="contact"></a> 
 
 
-<img src = "https://github.com/RIAJUNEJA/riajuneja/files/11380749/IMG-3392.pdf" width="200" height="300">
+<img src = "https://github.com/RIAJUNEJA/riajuneja/files/11380749/IMG-3392.pdf" width="220" height="300">
 
 
 
