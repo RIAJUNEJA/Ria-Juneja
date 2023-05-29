@@ -9,8 +9,7 @@
 
 **E-mail** :  rjuneja@ucsd.edu 
 
-
-<img src = "https://github.com/RIAJUNEJA/Ria-Juneja/files/11381563/IMG-3392.pdf" width="220" height="300">
+![image](https://github.com/RIAJUNEJA/Ria-Juneja/assets/122485765/9cf708db-bb5c-4ebe-8a9c-e6af6ad83698)
 
 
 
