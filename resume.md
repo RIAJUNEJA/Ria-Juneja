@@ -3,19 +3,15 @@
 
 ## About me <a id="about-me"></a> 
 
-<a id="contact"></a> 
-
-
-
 **E-mail** :  rjuneja@ucsd.edu 
 
 **Website** : www.riajuneja.com
 
-![image](https://github.com/RIAJUNEJA/Ria-Juneja/assets/122485765/9cf708db-bb5c-4ebe-8a9c-e6af6ad83698)
+**Major** : Math-Computer Science
 
+**Minor** : Data Science
 
-
-Hello! I am Ria Juneja. I am a sophomore at University of California San Diego. I am majoring in **Math-Computer Science** and minoring in **Data Science**. I am interested in 
+## Fields of interest:
 - **machine learning** 
 - **artificial intelligence** 
 - **data analytics** 
@@ -189,10 +185,3 @@ In my grade 12 board examinations in the non-medical stream, I secured **first p
 - Avid dog welfare promoter.
 - Volunteered at a children's hospital in Chandigarh.
 
-## Hobbies <a id="hobbies"></a>
-
-- Gym
-- Dance
-- Watercoloring 
-- Calligraphy
- 
