@@ -29,13 +29,6 @@ In my grade 12 board examinations in the non-medical stream, I secured **first p
 _UCSD Office Of Parent And Family Programs, La Jolla, CA_
 
 
-- Supported organizational objectives by communicating goals with team and encouraging individual and team accountability.
-- Exhibited excellent communications and customer service relations skills. Developed strong interpersonal communication skills to promote relationship building with internal and external customers.
-- Leading and managing a team of student volunteers to plan and execute events and programs.
-- Collaborating with campus departments and organizations.
-- Played a critical role in creating a positive and inclusive campus community and supporting the success and wellbeing of fellow students.
-
-
 ### Social Media promoter
 - BeReal
 - Patio App
