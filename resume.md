@@ -101,30 +101,25 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 ## Certifications <a id="certfifications"></a>
 
 
- 1. **FinTech Security and Regulation (RegTech) by The Hong Kong University of Science and Technology**
-- Gained knowledge about the regulatory and compliance aspects of FinTech, including RegTech, in the context of the financial industry
+1. **FinTech Security and Regulation (RegTech) by The Hong Kong University of Science and Technology**
 
 2. **FinTech Foundations and Overview by The Hong Kong University of Science and Technology**
-- Acquired knowledge about the fundamental concepts and trends of FinTech, including digital payments, crowdfunding, and blockchain technology
 
 3. **Cryptocurrency and Blockchain: An Introduction to Digital Currencies by University of Pennsylvania**
-- Learned the basics of digital currencies, including the technology behind blockchain and the economics of cryptocurrency
 
 4. **FinTech: Foundations, Payments, and Regulations by University of Pennsylvania**
-- Gained an understanding of the technological and regulatory aspects of FinTech, including digital payments and the impact of FinTech on the financial industry
 
 5. **Introduction to Probability and Data with R by Duke University**
-- Learned the basics of probability theory and statistical inference, and applied these concepts to analyze real-world data using the R programming language
+
 
 6. **Code Free Data Science by University of California San Diego**
-- Acquired knowledge about the fundamental concepts and tools of data science, including data exploration, visualization, and machine learning, without needing to write code
 
 7. **Programming Foundations with JavaScript, HTML and CSS by Duke University**
-- Learned the basics of web development using JavaScript, HTML, and CSS, and gained hands-on experience building web applications from scratch.
+
 
 ## Other skills <a id="skills"></a>
 
-- Proficient in **Java, C, Unix, Python, HTML, CSS and R** programming languages
+- Proficient in **Java, C, Unix, Python, HTML, CSS, ARM and R** programming languages
 - Experienced in developing and implementing algorithms and data structures
 - Knowledgeable in software development practices and principles
 - Familiar with various **IDEs**, debugging tools, and software libraries for these languages
