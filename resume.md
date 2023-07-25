@@ -133,10 +133,8 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 - **House prefect**
 - **House captain**
 - **Chief of Staff, MUN**
-
 - **Head of Department, MUN**
 - **Tritons Community Programming Leader**
-
 - **Mentor at UCSD**
 
 ## Academic Awards <a id="awards"></a>
