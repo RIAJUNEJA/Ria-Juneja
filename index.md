@@ -50,6 +50,7 @@ Increased customer engagement through social media.
 
 # Projects <a id="projects"></a>
 
+## Python
 
 ### Data Analysis Project: San Diego Police Stop Data
 > DSC 96
@@ -95,9 +96,17 @@ Increased customer engagement through social media.
 - Developed skills in data preprocessing and visualization, as well as proficiency in Python programming and data analysis techniques
 - Improved understanding of sleep data and its potential impact on health outcomes.
 
-### Other basic projects:
+## Java
 
-I have done 16+ other basic projects in Java for my CSE courses. Feel free to contact me for more information.
+I have done 16+ other basic projects in Java for my CSE 11 and 12. Feel free to contact me for more information.
+
+## C
+
+I have done 4 projects in C in my CSE 30 course. Feel free to contact me for more information.
+
+## ARM
+
+I have done 4 projects in Assembly/ARM in my CSE 30 course. Feel free to contact me for more information.
 
 
 # Certifications <a id="certfifications"></a>
