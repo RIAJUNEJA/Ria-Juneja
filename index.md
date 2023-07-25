@@ -126,7 +126,7 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 
 # Other skills <a id="skills"></a>
 
-- Proficient in **Java, C, Unix, Python, HTML, CSS and R** programming languages
+- Proficient in **Java, C, Unix, Python, HTML, CSS, ARM and R** programming languages
 - Experienced in developing and implementing algorithms and data structures
 - Knowledgeable in software development practices and principles
 - Familiar with various **IDEs**, debugging tools, and software libraries for these languages
