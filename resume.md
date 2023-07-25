@@ -109,6 +109,7 @@ I have done 4 projects in Assembly/ARM in my CSE 30 course
 - **House captain**
 - **Chief of Staff, MUN**
 - **Head of Department, MUN**
+- **Official, MUN** 
 - **Tritons Community Programming Leader**
 - **Mentor at UCSD**
 
@@ -119,12 +120,6 @@ In my grade 12 board examinations in the non-medical stream, I secured **first p
 
 ## Extra Curriculars <a id="EC"></a>
 
-- **Chief Of Staff** in SFHSMUN
-- **Advisor to the director**
-- **House Captain**
-- **Head of Registrations Department** of the SFHS MUN •Volunteered one AIESEC
-- **House prefect**
-- **Official** of Registrations in SFHSMUN
 - **Special mention** at SFHSMUN
 - **Special mention** at RISCMUN
 - **Special mention** at GGSMUN
