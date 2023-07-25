@@ -48,54 +48,36 @@ Increased customer engagement through social media.
 
 ## Projects <a id="projects"></a>
 
+## Python 
+
+### Great British Bake off ,
+### Exploring COVID-19 Data
+> DSC 10
 
 ### Data Analysis Project: San Diego Police Stop Data
 > DSC 96
 
-- Utilized San Diego RIPA police stop data to analyze the nature of stops in San Diego
-- Worked with messy real-world data, identified bad data and performed sophisticated analysis in Tableau
-- Conducted data cleaning by identifying null values, values that seemed impossible and values that occurred unnaturally often
-- Analyzed the Stop Cause field, identified issues and dealt with them appropriately
-- Conducted exploratory data analysis by plotting counts of fields by time and identifying patterns and oddities
-
-### Great British Bake off ,
-
-### Exploring COVID-19 Data
-
-> DSC 10
-
-- Completed comprehensive project drawing on concepts including data processing, modeling, and analysis using Python programming techniques
-- Demonstrated ability to apply computational thinking to answer questions arising from large-scale datasets
-- Employed open-ended problem-solving skills to find multiple valid approaches to project problems of varying difficulty
-- Highlighted end-to-end approach to data science through project development, emphasizing the importance of understanding data processing and modeling to reach accurate and actionable insights.
-
 ### Text Processing Project
 > DSC 96
-
-- Utilized notebooks to learn how to process text, including a practical introduction on processing tweets and using NLP to evaluate sentiment
-- Demonstrated proficiency in Regular Expression by completing an independent study of the notebook
--Implemented web scraping techniques to collect data from the internet, making the project more interesting
-- Completed the project independently and applied the skills learned to analyze text data effectively
 
 ### Audio Project
 > DSC 96
 
-- Stored and modify audio recordings using Python, including digital signal processing techniques to remove long pauses
-- Utilized a pre-made API to perform speech recognition and examined the impact of noise on speech recognition accuracy
-- Gained knowledge about the cloud through the use of cloud-based speech recognition services
-- Demonstrated proficiency in Python programming and digital signal processing techniques for audio data analysis.
-
 ### Sleep Analysis Project
 > DSC 96
 
-- Analyzed sleep data downloaded from an app and compared the precision of three different data sources
-- Transformed raw data into a format suitable for analysis and generated hypnograms using Python
-- Developed skills in data preprocessing and visualization, as well as proficiency in Python programming and data analysis techniques
-- Improved understanding of sleep data and its potential impact on health outcomes.
 
-### Other basic projects:
+## Java
 
-I have done 16+ other basic projects in Java for my CSE courses. Feel free to contact me for more information.
+I have done 16+ other basic projects in Java for my CSE 11 and 12. 
+
+## C
+
+I have done 4 projects in C in my CSE 30 course
+
+## ARM
+
+I have done 4 projects in Assembly/ARM in my CSE 30 course
 
 
 ## Certifications <a id="certfifications"></a>
