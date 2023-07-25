@@ -134,19 +134,15 @@ I have done 16+ other basic projects in Java for my CSE courses. Feel free to co
 
 ## Leadership <a id="leadership"></a>
 
-- **Advisor to the Director**: Served as a trusted advisor to the Director, providing guidance and support in the development and implementation of strategic initiatives. Collaborated with other senior leaders to ensure alignment and effective decision-making.
+- **Advisor to the Director** 
+- **House prefect**
+- **House captain**
+- **Chief of Staff, MUN**
 
-- **House prefect**: Demonstrated leadership and responsibility as a house prefect, overseeing the well-being and safety of fellow students. Coordinated with other prefects and school staff to organize and lead activities and events for the house.
+- **Head of Department, MUN**
+- **Tritons Community Programming Leader**
 
-- **House captain**: Led and motivated a team of house prefects to create a positive and supportive environment for all members of the house. Served as a liaison between the house and school administration, advocating for the needs and concerns of the house members.
-
-- **Chief of Staff, MUN**: Provided strategic direction and support to the Model United Nations (MUN) team as the Chief of Staff. Worked closely with the team members to plan and execute successful conferences and events, ensuring smooth operations and high participant satisfaction.
-
-- **Head of Department, MUN**: Led the planning and execution of all departmental activities for the MUN team. Collaborated with other department heads and the Chief of Staff to ensure that all aspects of the team's operations were running smoothly and effectively.
-
-- **Tritons Community Programming Leader** : Supported organizational objectives by communicating goals with team and encouraging individual and team accountability.Led and managed a team of student volunteers to plan and execute events and programs.Collaborated with campus departments and organizations.
-
-- **Mentor at UCSD**: Provided guidance and support to individuals seeking to develop their skills in a particular area, such as programming or leadership. I facilitated one-on-one meetings, provided feedback on assignments, and answered questions to help mentees achieve their goals. I also worked to create a supportive and inclusive environment, encouraging mentees to grow and succeed in their endeavors.
+- **Mentor at UCSD**
 
 ## Academic Awards <a id="awards"></a>
 
