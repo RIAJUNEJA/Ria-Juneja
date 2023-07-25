@@ -1,11 +1,12 @@
-# Ria Juneja's Resume #
-
 
 ## About me <a id="about-me"></a> 
+**Name** : Ria Juneja
 
 **E-mail** :  rjuneja@ucsd.edu 
 
 **Website** : www.riajuneja.com
+
+**University** : University of California San Diego (Junior Standing)
 
 **Major** : Math-Computer Science
 
